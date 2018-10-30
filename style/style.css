@@ -1,0 +1,15 @@
+h1 {
+  color: crimson;
+  size: 20px;
+  font-style: italic;
+}
+
+table {
+  border-style: dotted;
+}
+
+.cell {
+  background-color: aqua;
+  border-style: solid;
+  border-color: blue;
+}
